@@ -141,7 +141,7 @@ export default function Resume({ onOpenResumeModal }) {
                   <span>Need an editable ATS version?</span>
                   <a
                     href={profileData.resumeWordPath}
-                    download="Harish_Kumar_Resume.docx"
+                    download="Harish_Kumar_Resume claude.docx"
                     className="inline-flex items-center gap-1 font-semibold text-[#2563EB] hover:underline"
                   >
                     <Download className="w-3 h-3" />

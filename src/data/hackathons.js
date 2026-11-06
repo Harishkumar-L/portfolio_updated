@@ -40,7 +40,7 @@ export const hackathonsData = [
     credentialId: "PR-2026-KCE-7178",
     description: "Showcased rapid problem-solving, UI architecture, frontend development, and responsive prompt-driven software craftsmanship.",
     certificatePdf: "/certificates/Prompt_Run_Certificate.pdf",
-    certificateImage: null,
+    certificateImage: "/certificates/Prompt_Run_Certificate.jpg",
     badge: "Official Participation",
     icon: "Code"
   }

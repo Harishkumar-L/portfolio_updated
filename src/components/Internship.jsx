@@ -108,7 +108,7 @@ export default function Internship({ onOpenCertificateModal }) {
 
                   <a
                     href={internshipData.certificatePdf}
-                    download="Thiranex_Internship_Certificate.pdf"
+                    download="Thiranex_Certificate_Harishkumar.pdf"
                     className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold text-[#1E40AF] bg-white border border-[#BFDBFE] hover:bg-blue-50 transition-all active:scale-95"
                   >
                     <Download className="w-4 h-4 text-[#3B82F6]" />

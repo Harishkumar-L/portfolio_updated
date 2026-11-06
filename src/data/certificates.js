@@ -9,7 +9,7 @@ export const certificatesData = [
     type: "Internship Certificate",
     status: "Verified",
     description: "Successfully completed Full Stack Development Internship at Thiranex from 29 June 2026 to 28 July 2026.",
-    pdfUrl: "/certificates/Thiranex_Internship_Certificate.pdf",
+    pdfUrl: "/certificates/Thiranex_Certificate_Harishkumar.pdf",
     imageUrl: null,
     badge: "Completed Internship"
   },
@@ -29,7 +29,7 @@ export const certificatesData = [
   },
   {
     id: "hackeverse-cert",
-    title: "HACKNOWA Global Hackathon 2026 Certificate",
+    title: "HACKNOWA Global Hackathon 2026 (HackeVerse)",
     issuer: "Innovation Hacks (Unstop & MSME)",
     category: "Hackathons",
     date: "21 October 2026",
@@ -52,7 +52,7 @@ export const certificatesData = [
     status: "Verified",
     description: "Awarded for participating in Prompt Run 2026 organised by Frontend Arena.",
     pdfUrl: "/certificates/Prompt_Run_Certificate.pdf",
-    imageUrl: null,
+    imageUrl: "/certificates/Prompt_Run_Certificate.jpg",
     badge: "Hackathon Participation"
   }
 ];

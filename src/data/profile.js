@@ -42,6 +42,6 @@ export const profileData = {
     email: "mailto:717825f317@kce.ac.in"
   },
   resumePath: "/Harish_Kumar_Resume.pdf",
-  resumeWordPath: "/Harish_Kumar_Resume.docx",
+  resumeWordPath: "/Harish_Kumar_Resume claude.docx",
   photoUrl: "/harish-photo.jpg"
 };
