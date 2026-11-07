@@ -43,12 +43,12 @@ export default function Resume({ onOpenResumeModal }) {
               <div className="md:col-span-5 flex flex-col items-center">
                 <div
                   onClick={() => window.open(profileData.resumePath, '_blank')}
-                  className="relative w-full max-w-xs aspect-[1/1.414] rounded-2xl border-2 border-blue-200 overflow-hidden shadow-md group cursor-pointer bg-slate-100"
+                  className="relative w-full max-w-xs aspect-[1/1.414] rounded-2xl border-2 border-blue-200 overflow-hidden shadow-md group cursor-pointer bg-white"
                 >
                   <img
-                    src="/Harish_Kumar_Resume_preview.jpg"
+                    src="/Harish_Kumar_Resume_preview.svg"
                     alt="Harish Kumar Resume Preview"
-                    className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-102"
+                    className="w-full h-full object-contain p-2 transition-transform duration-300 group-hover:scale-102"
                   />
                   <div className="absolute inset-0 bg-blue-900/40 opacity-0 group-hover:opacity-100 transition-opacity flex flex-col items-center justify-center text-white p-4 text-center">
                     <Eye className="w-8 h-8 mb-2" />
